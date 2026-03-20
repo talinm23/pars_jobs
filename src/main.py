@@ -12,7 +12,7 @@ from openai.types.responses import ResponseTextDeltaEvent
 import streamlit as st
 from functions import get_links, scrape_text, concise_table
 import time
-from google.adk.runners import InMemoryRunner
+#from google.adk.runners import InMemoryRunner
 
 
 script_dir = os.path.dirname(__file__)
