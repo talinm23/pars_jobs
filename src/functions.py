@@ -1,6 +1,6 @@
 from typing import Optional
 import requests
-import feedparser
+#import feedparser
 from typing import Optional
 from openai import OpenAI
 import streamlit as st
