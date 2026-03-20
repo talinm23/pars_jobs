@@ -15,6 +15,8 @@ COPY src/ ./src/
 
 RUN pip3 install .
 
+RUN pip install beautifulsoup4==4.12.3
+
 RUN python -m pip install --no-cache-dir openai openai-agents python-dotenv 
 RUN pip show openai-agents
 
