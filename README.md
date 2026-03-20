@@ -1,33 +1,15 @@
-
 ---
-
-title: IndicatorLab
-
+title: ParsJobs
 emoji: 📈
-
 colorFrom: indigo
-
 colorTo: blue
-
 sdk: docker
-
-python\_version: 3.13
-
-suggested\_hardware: cpu-basic
-
-app\_file: src/main.py
-
+python_version: 3.13
+suggested_hardware: cpu-basic
+app_file: src/main.py
 pinned: false
-
-app\_port: 8501
-
+app_port: 8501
 tags:
-
-&nbsp; - streamlit
-
+  - streamlit
 license: apache-2.0
-
 ---
-
-
-
