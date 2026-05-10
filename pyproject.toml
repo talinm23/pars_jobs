@@ -9,6 +9,5 @@ dependencies = [
     "openai-agents>=0.3.0",
     "python-dotenv>=1.1.1",
     "streamlit>=1.49.1",
-    "youtube-transcript-api>=1.2.2",
     "beautifulsoup4",
 ]
